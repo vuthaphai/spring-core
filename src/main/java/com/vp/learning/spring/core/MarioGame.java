@@ -1,8 +1,10 @@
 package com.vp.learning.spring.core;
 
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
-
+@Component
+@Primary
 public class MarioGame implements Game {
 
     public void up(){

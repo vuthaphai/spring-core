@@ -1,5 +1,8 @@
 package com.vp.learning.spring.core;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class ZoombieGame implements Game {
     public void up(){
         System.out.println("Go forward");

@@ -6,7 +6,6 @@ public class MainApplication {
     public static void main(String[] args) {
 //        ZoombieGame game = new ZoombieGame();
 //        MarioGame game = new MarioGame();
-
 //        GameRunner gameRunner = new GameRunner(game);
 
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(Config.class);

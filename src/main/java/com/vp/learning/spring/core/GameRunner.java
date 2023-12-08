@@ -2,7 +2,7 @@ package com.vp.learning.spring.core;
 
 import org.springframework.stereotype.Component;
 
-
+@Component
 public class GameRunner {
 //    private ZoombieGame game;
 
