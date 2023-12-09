@@ -1,4 +1,4 @@
-package com.vp.learning.spring.core;
+package com.vp.learning.spring.core1;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

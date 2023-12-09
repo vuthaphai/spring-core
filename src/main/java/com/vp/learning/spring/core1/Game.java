@@ -1,4 +1,4 @@
-package com.vp.learning.spring.core;
+package com.vp.learning.spring.core1;
 
 public interface Game {
     void up();
